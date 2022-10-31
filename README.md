@@ -3,10 +3,13 @@
 In this work, we propose an Adversarial UDA model to solve the Hand gesture recognition task. UDA is used so that the model can leverage the information from the source domain (RGB) and improve the model's performance on the Target domain (thermal).
 
 # Datasets
-1. Sign digit dataset - https://drive.google.com/drive/folders/1maCq5fEn9kwOYBMc9OBJVstcAygUBsDv?usp=share_link \\
+1. Sign digit dataset - https://drive.google.com/drive/folders/1maCq5fEn9kwOYBMc9OBJVstcAygUBsDv?usp=share_link
+
 2. Alphabet gesture classification dataset: \\
-  RGB images - https://drive.google.com/file/d/1gnlhRghrv7zca8n6vIdUnZTvfjNYIi97/view?usp=share_link \\
-  RGB labels - https://drive.google.com/file/d/1gp6rv75MMS3iXvnY2RUsQp7J_7q-D3mQ/view?usp=share_link \\
+  RGB images - https://drive.google.com/file/d/1gnlhRghrv7zca8n6vIdUnZTvfjNYIi97/view?usp=share_link
+  
+  RGB labels - https://drive.google.com/file/d/1gp6rv75MMS3iXvnY2RUsQp7J_7q-D3mQ/view?usp=share_link
+  
   Thermal images - https://drive.google.com/file/d/1glhoWTcg2DrIruOrcA2Z90yoDTEXaQtT/view?usp=share_link \\
   Thermal labels - https://drive.google.com/file/d/1gm1PaP_Nlqnrz_u-eKcHOw_R5RKbtpD8/view?usp=share_link \\
 
